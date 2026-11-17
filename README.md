@@ -4,8 +4,7 @@ Back-end & DevOps engineer focused on **Python/Flask platforms, containerized
 deployments and security operations** for network infrastructure.
 
 I build and operate systems where software meets the network: operational
-dashboards, job automation, controlled device access over SSH and perimeter
-monitoring.
+dashboards, job automation, and perimeter monitoring.
 
 ---
 
@@ -13,8 +12,6 @@ monitoring.
 
 - **Operational platforms** — Flask applications with modular blueprints,
   PostgreSQL, Redis and real-time updates over Socket.IO.
-- **Network automation** — controlled, allow-listed SSH execution against radios
-  and network equipment (Paramiko).
 - **Security operations** — UFW, Fail2Ban, TLS hardening and log analysis turned
   into a single read-only operations snapshot.
 - **Delivery** — Docker Compose stacks behind Nginx TLS reverse proxies.
