@@ -1,6 +1,6 @@
 # Hi, I'm R0pr3
 
-Back-end & DevOps engineer focused on **Python/Flask platforms, containerized
+NOC Analyst, Back-end & DevOps developer focused on **Python/Flask platforms, containerized
 deployments and security operations** for network infrastructure.
 
 I build and operate systems where software meets the network: operational
@@ -12,8 +12,8 @@ dashboards, job automation, and perimeter monitoring.
 
 - **Operational platforms** — Flask applications with modular blueprints,
   PostgreSQL, Redis and real-time updates over Socket.IO.
-- **Security operations** — UFW, Fail2Ban, TLS hardening and log analysis turned
-  into a single read-only operations snapshot.
+- **Security operations** — UFW, Fail2Ban, TLS hardening and automated log analysis 
+consolidated into single-pane-of-glass operational snapshots.
 - **Delivery** — Docker Compose stacks behind Nginx TLS reverse proxies.
 
 ## Featured projects
