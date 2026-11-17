@@ -1,4 +1,4 @@
-# Hi, I'm R0pr3 👋
+# Hi, I'm R0pr3
 
 Back-end & DevOps engineer focused on **Python/Flask platforms, containerized
 deployments and security operations** for network infrastructure.
