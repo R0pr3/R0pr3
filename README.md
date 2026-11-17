@@ -18,12 +18,12 @@ dashboards, job automation, and perimeter monitoring.
 
 ## Featured projects
 
-### 🧭 [NEXUS — NOC & Field Services case study](https://github.com/R0pr3/nexus-case-study)
+### [NEXUS — NOC & Field Services case study](https://github.com/R0pr3/nexus-case-study)
 Architecture, diagrams and engineering metrics of a platform that unifies field
 activity, network material control and device diagnostics.
 *Documentation only — the production codebase is private.*
 
-### 🧪 [Flask microservice boilerplate](https://github.com/R0pr3/flask-microservice-boilerplate)
+### [Flask microservice boilerplate](https://github.com/R0pr3/flask-microservice-boilerplate)
 Clean-room, runnable reference: application factory, domain blueprints,
 PostgreSQL, Redis, Gunicorn + Nginx, structured JSON logs and a pytest suite.
 
